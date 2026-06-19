@@ -1,3 +1,4 @@
+package com.gimnasio;
 public class GestionGimnasio {
 
     // Método para calcular el costo de la membresía

@@ -1,0 +1,7 @@
+organization=valentinoaegerter
+projectKey=ValentinoAegerter_Gestion-de-Gym
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.92448
+dashboardUrl=https://sonarcloud.io/dashboard?id=ValentinoAegerter_Gestion-de-Gym
+ceTaskId=AZ7cHABXS1WyonZCuNXf
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ7cHABXS1WyonZCuNXf
